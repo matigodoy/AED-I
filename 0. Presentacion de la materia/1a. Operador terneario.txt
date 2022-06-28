@@ -1,0 +1,5 @@
+OPERADOR TERNEARIO
+
+<condicionbooleana> ? <resultado_verdadero> : <resultado_falso>
+
+cout << "El año << anio << esBisiesto(anio) ? "si" : "no" << "es bisiesto";
